@@ -1,6 +1,6 @@
-## Victoria, Saqif, Tidiane
+## CREATED BY: SAQIF KHAN, VICTORIA CHIME, and TIDIANE DIALLO
 while True:
-    print("\nWelcome to Ibiza Mad Lib story")
+    print("\nWELCOME TO IBIZA MAD LIB STORY")
     print("Game Instructions: Please fill in the blanks.")
     print() ## will create an empty line
     
